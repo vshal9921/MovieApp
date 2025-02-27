@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie App</string>
+
+    <string name="error_movie_id">Movie details not available.</string>
+    <string name="error_no_result">No results found.</string>
+
+    <string name="rating">Rating</string>
+    <string name="cast">Cast</string>
+    <string name="overview">Overview</string>
+</resources>
